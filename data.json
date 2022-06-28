@@ -1,34 +1,30 @@
-{"dogs":[
+{"Berlin":[
    {
-      "name":"Spot",
-      "age":2,
-      "breed":"Dalmatian",
-      "description":"Spot is an energetic puppy who seeks fun and adventure!",
-      "url":"https://robohash.org/eaqueatquecommodi.png?size=50x50&amp;set=set1"
+      "date": "12.05.2018",
+      "author": "Albert Einstein",
+      "title":"Berlin: where the good restaurants are",
+      "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    },
    {
-      "name":"Shadow",
-      "age":4,
-      "breed":"Border Collie",
-      "description":"Eager and curious, Shadow enjoys company and can always be found tagging along at your heels!",
-      "url":"https://robohash.org/etidnatus.png?size=50x50&amp;set=set1"
+      "date": "19.01.1515",
+      "author": "Angela Merkel",
+      "title":"Berlin: places to visit",
+      "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    }
 ],
-"cats":[
+"London":[
    {
-      "name":"Snowflake",
-      "age":1,
-      "breed":"Tabby",
-      "description":"Snowflake is a playful kitten who loves roaming the house and exploring.",
-      "url":"https://robohash.org/quaevoluptatibusconsequatur.png?size=50x50&amp;set=set1"
+      "date": "19.01.1111",
+      "author": "Caesar",
+      "title":"London: beautiful parks",
+      "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    }
 ],
-"rabbits":[
+"Athens":[
    {
-      "name":"Easter",
-      "age":4,
-      "breed":"Mini Rex",
-      "description":"Easter is a sweet, gentle rabbit who likes spending most of the day sleeping.",
-      "url":"https://robohash.org/numquamvelalias.png?size=50x50&amp;set=set1"
+      "date": "19.01.2075",
+      "author": "Person from the future",
+      "title":"Athens: most beautiful islands",
+      "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    }
 ]}
