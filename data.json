@@ -1,30 +1,30 @@
-{"Berlin":[
+[
    {
+      "location": "Berlin",
       "date": "12.05.2018",
       "author": "Albert Einstein",
       "title":"Berlin: where the good restaurants are",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    },
    {
+      "location": "Berlin",
       "date": "19.01.1515",
       "author": "Angela Merkel",
       "title":"Berlin: places to visit",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
-   }
-],
-"London":[
+   },
    {
+      "location": "London",
       "date": "19.01.1111",
       "author": "Caesar",
       "title":"London: beautiful parks",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
-   }
-],
-"Athens":[
+   },
    {
+      "location": "Athens",
       "date": "19.01.2075",
       "author": "Person from the future",
       "title":"Athens: most beautiful islands",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    }
-]}
+]
