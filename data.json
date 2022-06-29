@@ -1,27 +1,35 @@
 [
    {
+      "id": 1,
       "location": "Berlin",
+      "img": "https://cdn.pixabay.com/photo/2018/07/14/15/27/cafe-3537801_960_720.jpg",
       "date": "12.05.2018",
       "author": "Albert Einstein",
       "title":"Berlin: where the good restaurants are",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    },
    {
+      "id": 2,
       "location": "Berlin",
+      "img": "https://cdn.pixabay.com/photo/2020/05/01/15/18/brand-front-of-the-brandenburg-gate-5117579_960_720.jpg",
       "date": "19.01.1515",
       "author": "Angela Merkel",
       "title":"Berlin: places to visit",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    },
    {
+      "id": 3,
       "location": "London",
+      "img": "https://cdn.pixabay.com/photo/2018/08/10/03/19/pathway-3596034_960_720.jpg",
       "date": "19.01.1111",
       "author": "Caesar",
       "title":"London: beautiful parks",
       "content":"text text text text text text text text text text text text text text text text text text text text text text text text"
    },
    {
+      "id": 4,
       "location": "Athens",
+      "img": "https://cdn.pixabay.com/photo/2017/12/15/13/51/polynesia-3021072_960_720.jpg",
       "date": "19.01.2075",
       "author": "Person from the future",
       "title":"Athens: most beautiful islands",
